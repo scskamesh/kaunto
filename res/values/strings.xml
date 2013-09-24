@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kaunto</string>
+    <string name="action_settings">Settings</string>
+    <string name="Amount">Enter Amount</string>
+    <string name="Submit">Submit</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Currency">Currency</string>
+    <string name="title_activity_settingsview">SettingsviewActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    
+     <string-array name="Currency">
+        <item>£</item>
+        <item>Rs </item>
+        <item>$</item>
+        <item>€</item>   
+    </string-array>
+      <integer-array name="Denomination">
+          <item>10</item>
+          <item>20</item>
+          <item>30</item>
+          <item>40</item>
+     </integer-array>
+     
+        <integer-array name="Quantity">
+          <item>5</item>
+          <item>4</item>
+          <item>3</item>
+          <item>2</item>
+     </integer-array>
+     
+      
+
+</resources>
